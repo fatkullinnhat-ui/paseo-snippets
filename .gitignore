@@ -1,0 +1,8 @@
+node_modules/
+*.tsbuildinfo
+.env
+.env.*
+.paseo/
+plugin-data/
+*.work
+*.work.*
